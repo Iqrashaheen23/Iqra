@@ -9,12 +9,14 @@
 
 ## About me
 
+
 A skilled and dedicated SQA engineer with 3+ years of experience in the field of software quality assurance.
 Experienced in writing and executing Test cases, Bug tracking and reporting, providing consistent and clear report in verbal and written communication for developers, product manager and other team members. Ability to work closely with developers and product owners to ensure features and bug fixes.
 
 My objective is to excel in a challenging and innovative QA environment and aim to exercise my full potential and to develop my technical skills and experience and be up-to-date.
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail. And on the other, due to my personality, I love to communicate with people and solve problems.
+
 
 ## Professional Experience
 
@@ -31,63 +33,80 @@ Currently I'm working at Sellercloud. Sellercloud is an e-commerce growth platfo
 My role is to write test cases & execute them once updates are made, log test results, bug tracking & reporting.
 
 
-
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1tY1oLasgJrxdP8G8RnOT-zCo_p5vCDST/view?usp=sharing).
+
+You can view/download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1tY1oLasgJrxdP8G8RnOT-zCo_p5vCDST/view?usp=sharing).
+
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+__Manual Testing__
+  * Can perform manual functional and usability testing of web applications
+  * Gained hands-on experience by testing different applications 
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing different applications 
+__Test Analysis & Design__
+  * Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * Can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for different apps
-  * know how to manipulate requests, collections & check responce
+__Smoke Testing__
+  * Read requirements from SRS & BRS 
+  * Perform smoke test to verify further testing is possible or not
+ 
+ __Functional Testing__
+  * Read requirements from SRS & BRS 
+  * Perform all functional test scenarios to assure functionalities are working fine or not
   
-__Exploratory testing__
-  * performed out of the box scenarios while testing different features & bug fixes
+ __Non- Functional Testing__
+  * Read requirements from SRS & BRS 
+  * Perform non-functional text execution
   
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+   __Regression Testing__
+  * After performing complete feature testing, verify existing functionality of application 
+  * Verify that newly added features have not impacted existing features
+  
+__API Testing__
+  * Know the difference between SOAP and REST APIs
+  * Gained experience through manual testing of APIs created for different apps
+  * Gnow how to manipulate requests, collections & check responce
+  
+__Exploratory Testing__
+  * Performed out of the box scenarios while testing different features & bug fixes
+  
+__Test Documentation__
+  * Can create test cases and checklists and know how and in which situations to use them effectively
+  * Able to prepare comprehensive bug reports and provide detailed session reports
 
-__SQL databases__
-  * can write complex requests using subqueries
-  * can write basic SQL queries & joins queries to check DB updates
-
+__SQL Databases__
+  * Can write complex requests using subqueries
+  * Can write basic SQL queries & joins queries to check DB updates
+  
+  
 ## Tools
 
 __TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+  * Know how to create test cases and test suits
+  * Able to run created test cases
+  * Know how to use dashboards and statistics
 
 __X-RAY__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+  * Know how to create test cases and test suits
+  * Able to run created test cases
+  * Know how to use dashboards and statistics
   
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * Know how to create bug reports
+  * Able to create projects and track their progress
 
 __Trello__
-  * know how to use Kanban boards and track project progress
-
+  * Know how to use Kanban boards and track project progress
+  * How to update project requirements including word files, google docs, images etc
+  
 
 ## Certificates
    
-[Link to the certificate](https://www.testdome.com/certificates/a23f8850888e4cafbc9e0f71e91fb232)
+[Software Quality Assurance](https://www.testdome.com/certificates/a23f8850888e4cafbc9e0f71e91fb232)
 
-[Link to the certificate](https://www.testdome.com/certificates/c4f9e5f8db30489d957935942d54e518)
+[Time Management](https://www.testdome.com/certificates/c4f9e5f8db30489d957935942d54e518)
 
 
 
