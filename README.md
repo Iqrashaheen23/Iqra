@@ -1,28 +1,39 @@
 # Portfolio
 - [About me](#about-me)
+- [Professional Experience](#professional-experience)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+- [Certificates](#certificates)
+
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+A skilled and dedicated SQA engineer with 3+ years of experience in the field of software quality assurance.
+Experienced in writing and executing Test cases, Bug tracking and reporting, providing consistent and clear report in verbal and written communication for developers, product manager and other team members. Ability to work closely with developers and product owners to ensure features and bug fixes.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+My objective is to excel in a challenging and innovative QA environment and aim to exercise my full potential and to develop my technical skills and experience and be up-to-date.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+## Professional Experience
+
+I got my Bachelor's Degree from the Lahore Garrison University Lahore, Pakistan in 2018. I started my first job in 2020 as a manual QA at Softenica Technologies, a services based company. 
+My role was to check WordPress & PHP websites according to Client's requirements & Website Standards.
+
+I have worked at Broadvoice as QA Engineer remotely with US Client. Broadvoice provide Voice over IP cloud-based telecommunications services to small, medium and enterprise businesses in the United States. 
+My role was to create test plans, test cases & test scenarios for existing and upcoming features. To check bugs & log them on Jira.
+
+I have worked at GrocerApp as QA Engineer. GrocerApp is Pakistan's Best Online Grocery Shopping App. GrocerApp is Pakistan's leading online grocery store offering same day grocery delivery to your doorstep. 
+My role was to read app's new features requirments, Test mockup designs, provide feedback to UI/UX designer, write & plan test data & test cases, perform smoke test, execute test cases on development build, provide feedback of bugs, verify bugs once they are fixed, perform regression testing, test new feature on production & verify existing functionality.
+
+Currently I'm working at Sellercloud. Sellercloud is an e-commerce growth platform dedicated to helping online retailers meet the challenges of omnichannel selling. Customizable omnichannel system that will streamline your e-commerce workflow. Control your catalog, inventory, purchasing, and fulfillment. 
+My role is to write test cases & execute them once updates are made, log test results, bug tracking & reporting.
+
+
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1tY1oLasgJrxdP8G8RnOT-zCo_p5vCDST/view?usp=sharing).
 
 ## Skills
 
@@ -30,7 +41,7 @@ You can find examples of the described skills in the [Examples of my work](#exam
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * gained hands-on experience by testing different applications 
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -38,25 +49,19 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
+  * gained experience through manual testing of APIs created for different apps
+  * know how to manipulate requests, collections & check responce
+  
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
+  * performed out of the box scenarios while testing different features & bug fixes
+  
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
   * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * can write basic SQL queries & joins queries to check DB updates
 
 ## Tools
 
@@ -65,76 +70,24 @@ __TestRail__
   * able to run created test cases
   * know how to use dashboards and statistics
 
+__X-RAY__
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to use dashboards and statistics
+  
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
+__Trello__
   * know how to use Kanban boards and track project progress
 
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
-## Courses
+## Certificates
+   
+[Link to the certificate](https://www.testdome.com/certificates/a23f8850888e4cafbc9e0f71e91fb232)
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+[Link to the certificate](https://www.testdome.com/certificates/c4f9e5f8db30489d957935942d54e518)
 
 
-## Examples of my work
 
-### Test cases and work in TestRail
-
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
-### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
-
-## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
-
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
